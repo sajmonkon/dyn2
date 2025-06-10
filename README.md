@@ -33,8 +33,8 @@ Tato webová aplikace slouží jako jednoduchý deník nálad. Uživatel může 
 
 ## 📎 Odkazy
 
-- 🔗 **Webová verze:** https://app.opent2.com/it3a/konecnys/dyn2
-- 🧑‍💻 **GitHub repozitář:** [doplnit URL GitHubu](#)
+- 🔗 **Webová verze: https://app.opent2.com/it3a/konecnys/dyn2
+- 🧑‍💻 **GitHub repozitář: https://github.com/sajmonkon/dyn2
 
 ---
 
