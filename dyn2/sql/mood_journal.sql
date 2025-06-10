@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS mood_journal;
+USE mood_journal;
+
+CREATE TABLE IF NOT EXISTS moods (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    mood VARCHAR(50),
+    note TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

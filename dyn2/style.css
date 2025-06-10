@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+}
+.card {
+    background: white;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+form select, form textarea, form button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 8px;
+}
+.mood-entry {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+}
+/* Prvky inspirovány z uiverse.io */
